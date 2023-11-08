@@ -1,4 +1,4 @@
-version: 0.0.4
+version: 0.0.1
 description: "GrepFa esp32 networking library v2"
 url: "https://github.com/GrepFa/grepfa_net_v2"
 dependencies:
